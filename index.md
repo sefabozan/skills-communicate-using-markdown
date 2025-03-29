@@ -16,17 +16,5 @@ git add .
 git commit -m "ilk commit"
 
 ---
-
-## 💾 ADIM 4: Commit Et (Kaydet)
-
-1. Sayfanın en altına in.
-2. “Commit changes” kutusuna kısa bir açıklama yaz:  
-   Örneğin: `index.md dosyasına içerik eklendi`
-3. Yeşil butona tıkla: **Commit changes**
-
----
-
-✅ Hepsi bu kadar!  
-Şimdi sayfayı yenile ve GitHub sana otomatik olarak “Tebrikler!” diyerek bir sonraki adıma geçirecek.
-
-Yapınca yaz, sıradaki aşamada yanındayım! 👏
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+Resim eklendi
