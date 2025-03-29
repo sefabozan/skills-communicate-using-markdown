@@ -1,32 +1,33 @@
-# Markdown Öğreniyorum
 
-**Markdown**, GitHub'da yazıları düzenli ve okunabilir şekilde yazmamızı sağlayan çok basit bir yazı biçimlendirme dilidir.
 
-## Neler Öğrendim?
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+-->
 
-- Başlık nasıl yazılır
-- Kalın yazı nasıl yazılır
-- Liste nasıl yapılır
+## Step 2: Add an image
 
-## Kod Blokları
+_Great job adding headers to the file :sparkles:_
 
-```bash
-git status
-git add .
-git commit -m "ilk commit"
+Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
----
+### Example
 
-## 💾 ADIM 4: Commit Et (Kaydet)
+```md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
 
-1. Sayfanın en altına in.
-2. “Commit changes” kutusuna kısa bir açıklama yaz:  
-   Örneğin: `index.md dosyasına içerik eklendi`
-3. Yeşil butona tıkla: **Commit changes**
+#### How it looks
 
----
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
-✅ Hepsi bu kadar!  
-Şimdi sayfayı yenile ve GitHub sana otomatik olarak “Tebrikler!” diyerek bir sonraki adıma geçirecek.
+### :keyboard: Activity: Adding an image
 
-Yapınca yaz, sıradaki aşamada yanındayım! 👏
+1. As you did before, edit the `index.md` file in this pull request.
+1. In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
+1. Use the **Preview** tab to check your Markdown formatting.
+1. Commit your changes.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+
